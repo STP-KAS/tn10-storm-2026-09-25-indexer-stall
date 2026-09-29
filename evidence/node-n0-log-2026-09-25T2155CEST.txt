@@ -1,0 +1,30 @@
+2026-09-25 21:55:25.363+02:00 [INFO ] Accepted 10 blocks ...55ac7a83e997005aaee11b007f5908564332cc12bd375d8b930f73b1aa167888, 8 via relay and 2 via submit block
+2026-09-25 21:55:26.576+02:00 [INFO ] Processed 86 blocks and 86 headers in the last 10.00s (70638 transactions; 53 UTXO-validated blocks; 2.66 parents; 2.97 mergeset; 82
+2026-09-25 21:55:26.734+02:00 [INFO ] Accepted 5 blocks ...7ddb81ca2e1c94b5c66ce9f765941cd83d5baed5407680a7b0cd3be7b4e9c388, 4 via relay and 1 via submit block
+2026-09-25 21:55:27.735+02:00 [INFO ] Accepted 10 blocks ...665ef75cda91502df1e4e30afb82da10811555f9df7b4134e8c99befef387679, 6 via relay and 4 via submit block
+2026-09-25 21:55:27.781+02:00 [INFO ] Tx throughput stats: 6280.48 u-tps, 94.91% e-tps (in: 73739 via RPC, 379 via P2P, out: 62815 via accepted blocks)
+2026-09-25 21:55:28.759+02:00 [INFO ] Accepted 8 blocks ...6eec9cdb04014ae8bb5704141be49ece6c8a06e9a6d77069d353a0d53bac58a6, 5 via relay and 3 via submit block
+2026-09-25 21:55:29.823+02:00 [INFO ] Accepted 5 blocks ...20e26e94121ab02962ec0bd49da34a459c1b691bdf256ea8bd0cd55092198047, 3 via relay and 2 via submit block
+2026-09-25 21:55:30.833+02:00 [INFO ] Accepted 13 blocks ...769ee7f04dee89122a16bd003efc7dcb1bd3202e1ea117bdee9ce983dbe4ebf5, 3 via relay and 10 via submit block
+2026-09-25 21:55:31.879+02:00 [INFO ] Accepted 12 blocks ...3ee8d0f8bd5bac32eb0bdc5eb273999bdf174d4d91d3c4d187be89dc452fae71, 5 via relay and 7 via submit block
+2026-09-25 21:55:32.931+02:00 [INFO ] Accepted 10 blocks ...33cc4fd8197d4532647b8deee11b2ae547c6c44225e13e1447521ff147c88738, 3 via relay and 7 via submit block
+2026-09-25 21:55:33.954+02:00 [INFO ] Accepted 9 blocks ...0e1fd43dc5c1203ce7af4d6e1091f97ea016eda4ac6660b0cb50bbd6d82322bc, 7 via relay and 2 via submit block
+2026-09-25 21:55:35.056+02:00 [INFO ] Accepted 12 blocks ...838ac0043e31d2715815db73844c540f68813a2e447260344cce7e319976755f, 8 via relay and 4 via submit block
+2026-09-25 21:55:36.292+02:00 [INFO ] Accepted 6 blocks ...327a7d139d775064a689167aae2f541f0b2b6e30ddb907587d087dba4d9fce00, 3 via relay and 3 via submit block
+2026-09-25 21:55:36.577+02:00 [INFO ] Processed 88 blocks and 88 headers in the last 10.00s (72238 transactions; 53 UTXO-validated blocks; 2.45 parents; 2.53 mergeset; 82
+2026-09-25 21:55:37.339+02:00 [INFO ] Accepted 6 blocks ...e01b108d1882032b8c55f13dd02d1a1a15fc748a0154131ffaf3b31685ce7f85, 3 via relay and 3 via submit block
+2026-09-25 21:55:37.781+02:00 [INFO ] Tx throughput stats: 5937.89 u-tps, 84.15% e-tps (in: 61225 via RPC, 496 via P2P, out: 59383 via accepted blocks)
+2026-09-25 21:55:38.537+02:00 [INFO ] Accepted 11 blocks ...4ff3f307b7742137fcb34178884280fb21149cb1be19431482f613ef5ca9bc8d, 7 via relay and 4 via submit block
+2026-09-25 21:55:38.537+02:00 [INFO ] Orphaned 1 block(s) ...1dade3ad22a00a6f51e4e9991438faa412e3fc5189d854f6e05b85f22ab881bb and queued 1 missing roots
+2026-09-25 21:55:38.537+02:00 [INFO ] Unorphaned block 1dade3ad22a00a6f51e4e9991438faa412e3fc5189d854f6e05b85f22ab881bb
+2026-09-25 21:55:39.586+02:00 [INFO ] Accepted 18 blocks ...6eb90230f8aa658518e78eb743545544c378887a11c16192343d5e61fcbc4537, 6 via relay and 12 via submit block
+2026-09-25 21:55:40.704+02:00 [INFO ] Accepted 6 blocks ...ec6f6a5b5dcb66e376012b8277c3cdf26622ebe0e4fe692c6ec0931030655946, 3 via relay and 3 via submit block
+2026-09-25 21:55:41.851+02:00 [INFO ] Accepted 5 blocks ...7019d6cdd7d8718b0dc47e50474dc580d54589984dd5d9121b0ff98df15d78a5, 4 via relay and 1 via submit block
+2026-09-25 21:55:43.043+02:00 [INFO ] Accepted 10 blocks ...c3fbb17e98c17b94fb726ab7517e0431118de8a12c20361c0f7b61b4658b6b59, 6 via relay and 4 via submit block
+2026-09-25 21:55:44.053+02:00 [INFO ] Accepted 6 blocks ...036a48806b0e6c56dc70d3a7738d36e4fdcf8d7495f026551e21983df3c89002, 3 via relay and 3 via submit block
+2026-09-25 21:55:45.164+02:00 [INFO ] Accepted 16 blocks ...3f93a11c216881192fb18b0146b3bcb952b6ad8d87ad689f636b6ce9929ff02f, 6 via relay and 10 via submit block
+2026-09-25 21:55:46.338+02:00 [INFO ] Accepted 6 blocks ...620d9d5db727345ee1ef7cb154d3591d8e50b0b9aa32477c4040529e884325cf, 3 via relay and 3 via submit block
+2026-09-25 21:55:46.578+02:00 [INFO ] Processed 85 blocks and 85 headers in the last 10.00s (70477 transactions; 47 UTXO-validated blocks; 2.53 parents; 2.65 mergeset; 82
+2026-09-25 21:55:46.696+02:00 [INFO ] Revalidated 47147 and removed 741 high priority transactions (removals: 741 accepted, 0 missing outpoint, 0 invalid)
+2026-09-25 21:55:47.438+02:00 [INFO ] Accepted 9 blocks ...2be9513c550932cb2574197708aca165368a086f836b105e8b4e8507a62df583, 4 via relay and 5 via submit block
+2026-09-25 21:55:47.783+02:00 [INFO ] Tx throughput stats: 6016.23 u-tps, 100.00% e-tps (in: 12236 via RPC, 353 via P2P, out: 60171 via accepted blocks)

@@ -1,0 +1,4 @@
+# rwstorm fee multiplier in scripts/tps-supervisor.py.bak-2245 (copy saved before the 22:47 CEST patch, so most likely the config running at 21:55 CEST): FEE_MULT 1.2 x 100 sompi/g
+{"t": "2026-09-25T21:22:15+0200", "event": "start", "tag": "P0", "pid": 4025863}
+34:              {"MODE": "p2w", "AFFINITY": "0", "NODES": " ".join(JP), "COOL": "4000", "FEE_MULT": "1.2", "LOW": "0"}))
+37:          {"MODE": "sig", "PAY": "50000000", "NODES": " ".join(JP), "AFFINITY": "1", "COOL": "3000", "FEE_MULT": "1.2", "LOW": "0", "CONC

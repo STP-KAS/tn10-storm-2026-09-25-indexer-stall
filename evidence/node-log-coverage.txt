@@ -1,0 +1,9 @@
+# node log coverage (box, 2026-09-29 12:57:29 CEST)
+rusty-kaspa.log.1.gz first: 2026-09-24 17:56:13.477+02:00  last: 2026-09-29 03:47:57.924+02:00
+rusty-kaspa.log first: 2026-09-29 03:47:58.769+02:00
+rusty-kaspa_err.log first: 2026-09-27 19:56:31.884+02:00
+stdout.log first: 2026-09-27 19:23:41.868+02:00
+grep -ci 'reorg|reorganiz' over rusty-kaspa.log.1.gz (24-29 Sep): 0
+grep -ci 'reorg|reorganiz' current logs: 0
+lines matching 'virtual' 25 Sep 21:00-22:59 CEST: 0
+'Orphaned' events 25 Sep 21:40-22:10 CEST: 42; 'Unorphaned' events: 41 (not paired one-by-one)

@@ -1,0 +1,24 @@
+query time 2026-09-29T10:56:22Z
+(2026-09-29 12:56:22 CEST)
+HTTP/2 503 
+date: Tue, 29 Sep 2026 10:56:22 GMT
+content-type: application/json
+content-length: 350
+server: cloudflare
+cache-control: public, max-age=8
+cf-cache-status: MISS
+
+{"kaspadServers":[{"kaspadHost":"wrpc","isUtxoIndexed":true,"isSynced":true,"serverVersion":"2.0.1","p2pId":"965d43fea52bf52915bfee424a155282f40fba60316d97a6c5c07276d094a3d3","blueScore":571964429}],"database":{"isSynced":false,"blueScore":571964386,"blueScoreDiff":10,"acceptedTxBlockTime":1790366138262,"acceptedTxBlockTimeDiff":313243.7379999161}}
+
+-- cached (no query string):
+HTTP/2 200 
+date: Tue, 29 Sep 2026 10:56:23 GMT
+content-type: application/json
+content-length: 335
+server: cloudflare
+cache-control: public, max-age=8
+accept-ranges: bytes
+cf-cache-status: STALE
+
+{"kaspadServers":[{"kaspadHost":"wrpc","serverVersion":"2.0.1","isUtxoIndexed":true,"isSynced":true,"p2pId":"965d43fea52bf52915bfee424a155282f40fba60316d97a6c5c07276d094a3d3","blueScore":568825293}],"database":{"isSynced":true,"blueScore":568825255,"blueScoreDiff":25,"acceptedTxBlockTime":1790365505207,"acceptedTxBlockTimeDiff":227}}
+

@@ -1,0 +1,7 @@
+source: https://api.fxtwitter.com/0xKnitser/status/2103505094532866269 (public mirror; x.com WebFetch returned 403)
+url: https://x.com/0xKnitser/status/2103505094532866269
+author: @0xKnitser
+created_at: Fri Sep 25 15:21:10 +0000 2026 (= 2026-09-25 17:21:10 CEST)
+text: Thanks, means a lot! Biggest challenge: reorgs. A 907-block one on TN10 took us down Sep 17: the watchdog restarted a 19-min rollback 44 times. that's fixed now
+
+KCCs: we follow KCC-1 as SilverScript 1.0 emits it, and re-pin once #27, #30, #31 land. Next: metadata fields on top of #26, if it would help out let me know and I'll start building.
