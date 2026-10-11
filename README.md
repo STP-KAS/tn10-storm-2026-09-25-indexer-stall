@@ -1,3 +1,7 @@
+> **Part of [tn-master](https://github.com/STP-KAS/tn-master)**, the map of every TN10 storm. Renamed on 11 Oct 2026 from `tn10-indexer-stall-2026-09`; old links redirect here.
+>
+> ← previous storm: [tn10-storm-2026-09-25-build](https://github.com/STP-KAS/tn10-storm-2026-09-25-build) | next storm: [tn10-storm-2026-09-25-r1](https://github.com/STP-KAS/tn10-storm-2026-09-25-r1) →
+
 # TN10 indexer stall (api-tn10.kaspa.org), Sep 2026
 
 Private working note. Checked on 2026-09-29 at 10:55–10:57Z (12:55–12:57 CEST).
